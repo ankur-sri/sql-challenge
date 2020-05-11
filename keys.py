@@ -1,0 +1,1 @@
+sql_query = 'postgresql://<username>:<password>@localhost:5432/<directory_name>'
